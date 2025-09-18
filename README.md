@@ -7,9 +7,9 @@ I will keep updating this repo as I move forward through the program.
 
 ## 📆 Week 1
 
-| Day  | Topic              | Status   |
-|------|--------------------|----------|
-| Day 0 | Tools Installation | ✅ Done  |
+| Day  | Topic                                 | Status    |
+|------|---------------------------------------|-----------|
+| Day 0 | GitHub repo creation & Video Summary | ✅ Done  |
 
 ---
 ## 📆 Week 1
