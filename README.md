@@ -5,36 +5,45 @@ I will keep updating this repo as I move forward through the program.
 
 ---
 
-## 📆 Week 0
+## 📆 Week 1
 
 | Day  | Topic              | Status   |
 |------|--------------------|----------|
 | Day 0 | Tools Installation | ✅ Done  |
 
 ---
+## 📆 Week 1
 
-## About
-
-This repo serves as my personal logbook for the **VSD-HDP program**.  
-Each week, I will document the tasks, learning outcomes, and scripts/files used.
-
-For **Week 0**, the focus is on getting the development environment ready.
-
----
-
-## 🔧 Tools Installation (Day 0)
-
-- Installed required tools for RTL design and synthesis.  
-- Verified environment setup by running test commands.  
-- Created a setup script for easier installation in the future.
+### ✅ Task 1: Create GitHub Repo & Document Video Summary
+- Created this repository to track daily and weekly progress.  
+- Added **Week 0** content (tools installation and setup).  
+- Documented summary of the intro video in [`Week1/Task1/summary.md`](./Week1/Task1/summary.md).
 
 ---
 
-## 📂 Repository Structure
+### ✅ Task 2: Install Required Tools
+Following tools were installed as per guidelines:
 
-```text
-├── README.md
-└── Week0/
-    ├── tools_installed.md
-    └── setup_scripts/
-        └── install_tools.sh
+1. **Yosys** – Open-source synthesis tool  
+2. **Icarus Verilog (iverilog)** – Verilog simulator  
+3. **GTKWave** – Waveform viewer  
+4. **Ngspice** – Circuit simulation tool  
+5. **Magic** – VLSI layout tool  
+6. **OpenLANE** – Open-source physical design flow  
+
+Each installation is documented in separate markdown files under  
+[`Week1/Task2/`](./Week1/Task2/).
+
+Snapshots of installed tools are in [`screenshots/`](./Week1/Task2/screenshots/).
+
+---
+
+## 🖥️ System Requirements
+
+- **RAM:** 6 GB (min)  
+- **Disk:** 50 GB free  
+- **CPU:** 4 cores  
+- **OS:** Ubuntu 20.04+  
+
+---
+
