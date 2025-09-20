@@ -73,7 +73,7 @@ $ sudo make install
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task2/Assets/Yosys_installed.png" 
        alt="Yosys Installed" width="600"/>
 </p>
 
@@ -101,7 +101,7 @@ $ sudo apt-get install iverilog
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/iverilog_installed.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task2/Assets/iverilog_installed.png" 
        alt="Iverilog Installed" width="600"/>
 </p>
 
@@ -130,7 +130,7 @@ $ sudo apt install gtkwave
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/gtkwave_installed.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task2/Assets/gtkwave_installed.png" 
        alt="GTKWave Installed" width="600"/>
 </p>
 
@@ -159,7 +159,7 @@ $ sudo apt install ngspice
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/ngspice_installed.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task2/Assets/ngspice_installed.png" 
        alt="ngspice Installed" width="600"/>
 </p>
 
@@ -213,7 +213,7 @@ sudo make install
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/magic_vlsi_installed.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task2/Assets/magic_installed.png" 
        alt="magic vlsi Installed" width="600"/>
 </p>
 
@@ -245,11 +245,11 @@ sudo make install
 
 <div align="center">
 
-**📂 Repository:** [RTL2GDS_Alchemy](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy)  
-**👨‍💻 Author:** [TheVoltageVikingRam](https://github.com/TheVoltageVikingRam)  
+**📂 Repository:** [Balakrishna_VSD-HDP](https://github.com/VBK0-0/Balakrishna_VSD-HDP/tree/main)  
+**👨‍💻 Author:** [VBK0-0](https://github.com/VBK0-0)  
 **📚 Program:** VLSI System Design (VSD)
 
-[![Follow](https://img.shields.io/github/followers/TheVoltageVikingRam?style=social)](https://github.com/TheVoltageVikingRam)
-[![Stars](https://img.shields.io/github/stars/TheVoltageVikingRam/RTL2GDS_Alchemy?style=social)](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy)
+[![Follow](https://img.shields.io/github/followers/VBK0-0?style=social)](https://github.com/VBK0-0)
+[![Stars](https://img.shields.io/github/stars/VBK0-0/Balakrishna_VSD-HDP?style=social)](https://github.com/VBK0-0/Balakrishna_VSD-HDP)
 
 </div>
