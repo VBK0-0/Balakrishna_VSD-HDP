@@ -17,7 +17,7 @@ I will keep updating this repo as I move forward through the program.
 ### ✅ Task 1: Create GitHub Repo & Document Video Summary
 - Created this repository to track daily and weekly progress.  
 - Added **Week 0** content (tools installation and setup).  
-- Documented summary of the intro video in [`Week1/Task1/summary.md`](./Week1/Task1/summary.md).
+- Documented summary of the intro video in [`Week1/Task1/readme.md`](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task1/readme.md).
 
 ---
 
@@ -31,10 +31,10 @@ Following tools were installed as per guidelines:
 5. **Magic** – VLSI layout tool  
 6. **OpenLANE** – Open-source physical design flow  
 
-Each installation is documented in separate markdown files under  
-[`Week1/Task2/`](./Week1/Task2/).
+Each installation is documented in:  
+[`Week1/Task2/Readme.md`](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Task2/Readme.md).
 
-Snapshots of installed tools are in [`screenshots/`](./Week1/Task2/screenshots/).
+Snapshots of installed tools are in [`Assets/`](https://github.com/VBK0-0/Balakrishna_VSD-HDP/tree/main/Week1/Task2/Assets).
 
 ---
 
