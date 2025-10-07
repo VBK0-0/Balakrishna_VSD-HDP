@@ -37,25 +37,25 @@ Logic synthesis encompasses several key processes:
 #### Invoke yosys
       yosys 
       
-![1](https://github.com/user-attachments/assets/a2ec47f9-1419-4d55-ae34-d092afa909ee)
+![yosys](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/yosys.png)
 
 #### Read liberty files
      read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1V80.lib
   
-![WhatsApp Image 2024-11-01 at 12 01 45 PM](https://github.com/user-attachments/assets/778eda84-c880-40cb-af46-05bdcc060f8c)
+![Read_liberty_files](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Read_liberty_files.png)
 
 #### Read verilog files
      read_verilog good_mux.v
      
-![WhatsApp Image 2024-11-01 at 12 01 48 PM](https://github.com/user-attachments/assets/f93cefab-4ade-4fbd-aaeb-3715cd5b7f2d)
+![Read_verilog_file](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Read_verilog_file.png)
 
 
 #### Run synthesis on top level module
       synth -top good_mux
       
-![WhatsApp Image 2024-11-01 at 12 01 47 PM](https://github.com/user-attachments/assets/fc73e5ec-ac01-4baf-b607-44d7f15022b2)
+![run_synth_on_top_level_module](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/run_synth_on_top_level_module.png)
 
-![WhatsApp Image 2024-11-01 at 12 01 46 PM](https://github.com/user-attachments/assets/81e5ee63-1b9b-4794-8aae-f9a8fff24954)
+![]()
 
 #### logic optimization using ABC algorithm
      abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1V80.lib
