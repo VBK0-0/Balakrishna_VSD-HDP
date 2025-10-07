@@ -10,7 +10,7 @@ Logic synthesis encompasses several key processes:
 
 ### SYNTHESIS
 
-![synthesis](http://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/synthesis.png)
+![synthesis](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/synthesis.png)
 
 ### Why different flavors of gate?
 
@@ -18,7 +18,7 @@ Logic synthesis encompasses several key processes:
 
 ### Why do we need Slow cells?
 
-<img width="558" alt="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Why_we_need_slow_cells.png">
+![Why_we_need_slow_cells](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Why_we_need_slow_cells.png)
 
 ### Faster Cells Vs Slower Cells
 
