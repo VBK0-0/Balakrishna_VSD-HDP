@@ -18,7 +18,7 @@
     - If no change to the input, no change to the output!
   - Simulator is looking for change in the values of input!
   <p align="center">
-  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/Introduction_to_Verilog_RTL_Design_and_Synthesis/Assets/TestBench.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/1_Introduction_to_open-source_simulator_iverilog/Assets/TestBench.png" 
        alt="Test Bench" width="600"/>
   </p>
 
@@ -27,6 +27,6 @@
   - TB doesn't have a primary input or primary outputs.
 -  *Iverilog based simulation flow:*
   <p align="center">
-  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/Introduction_to_Verilog_RTL_Design_and_Synthesis/Assets/Iverilog_based_simulation_flow.png" 
+  <img src="https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/1_Introduction_to_open-source_simulator_iverilog/Assets/Iverilog_based_simulation_flow.png" 
        alt="Iverilog based simulation flow" width="600"/>
   </p>
