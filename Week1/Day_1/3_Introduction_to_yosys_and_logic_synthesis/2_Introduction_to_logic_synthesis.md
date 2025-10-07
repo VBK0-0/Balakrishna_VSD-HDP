@@ -60,23 +60,23 @@ Logic synthesis encompasses several key processes:
 #### logic optimization using ABC algorithm
      abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1V80.lib
      
-![WhatsApp Image 2024-11-01 at 12 01 46 PM (2)](https://github.com/user-attachments/assets/b72345ac-dcaf-41dc-8b4e-4d910ac52aa8)
+![Logic_optimization_using_ABC_algorithm](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Logic_optimization_using_ABC_algorithm_1.png)
 
-![WhatsApp Image 2024-11-01 at 12 01 46 PM (1)](https://github.com/user-attachments/assets/6b5c2def-0272-4bbe-aa42-2a4dea084b1c)
+![Reintegrating_ABC_results](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Reintegrating_ABC_results.png)
 
 ### Use command to view the design 
-![WhatsApp Image 2024-11-01 at 12 01 44 PM](https://github.com/user-attachments/assets/97cfb3e7-d5af-433b-b64d-9e638e47cd9e)
+![Show_command](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Show_command.png)
 
-![WhatsApp Image 2024-11-01 at 12 01 45 PM (2)](https://github.com/user-attachments/assets/20286d52-7fd1-40f6-92cc-22618b74c456)
+![show_design](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/show_design_1.png)
 
 
 #### Write netlist file
      write_verilog good_mux_netlist.v
      !gvim good_mux_netlist.v
-![WhatsApp Image 2024-11-01 at 12 33 22 PM (2)](https://github.com/user-attachments/assets/04704919-72a1-4d81-a7e9-15175ae911c5)
+![write_netlist_file](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/write_netlist_file.png)
 
 #### Write precise netlist file
      write_verilog -noattr good_mux_netlist.v
      !gvim good_mux_netlist.v
      
-![WhatsApp Image 2024-11-01 at 12 01 44 PM (1)](https://github.com/user-attachments/assets/381028c3-3b6d-471a-aaba-4443e23c3705)
+![Write_precise_netlist_file](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/3_Introduction_to_yosys_and_logic_synthesis/Assets/Write_precise_netlist_file.png)
