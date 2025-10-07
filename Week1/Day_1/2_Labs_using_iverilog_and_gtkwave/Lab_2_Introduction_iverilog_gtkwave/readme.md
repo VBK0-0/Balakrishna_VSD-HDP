@@ -18,7 +18,7 @@ Click on tb good mux, inputs and outputs signal will appear drag and drop them a
 ![gtkwave_good_mux_output](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/2_Labs_using_iverilog_and_gtkwave/Assets/gtkwave_output_good_mux.png)
 
 To see the transitions of particular input
-![WhatsApp Image 2024-10-31 at 11 59 31 PM (10)](https://github.com/user-attachments/assets/f720b025-c709-435e-b16e-7c206511d527)
+![gtkwave_transition](https://github.com/VBK0-0/Balakrishna_VSD-HDP/blob/main/Week1/Day_1/2_Labs_using_iverilog_and_gtkwave/Assets/gtkwave_transition.png)
 
 ## Lab 2: Introduction to iverilog gtkwave part2
 
